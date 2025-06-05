@@ -24,6 +24,7 @@ body {
   text-align: center;
   cursor: pointer;
   line-height: 50px;
+  z-index: 3;
   box-shadow: 0 0 10px 0 hsla(0, 0%, 0%, 0.4);
   &:hover {
     background-color: var(--blue-hover-color);
